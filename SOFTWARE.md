@@ -4,6 +4,7 @@
 (I recommend 2015 or 2017, but most versions are fine. Don't confuse it with Visual Studio Code though, that's just a plain text editor)
 
 **Positives:**
+
 -Probably most Advanced C# IDE at the moment
 
 -Integration with GitHub
