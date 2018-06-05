@@ -3,7 +3,6 @@
 ##Introduction
 * [Introduction](README.md)
 
-##Basic Concepts
 ###General Programming Concepts
 * [The Compiler](COMPILER.md)
 
