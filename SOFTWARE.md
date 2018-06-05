@@ -3,7 +3,7 @@
 ####[Visual Studio](https://www.visualstudio.com)
 (I recommend 2015 or 2017, but most versions are fine. Don't confuse it with Visual Studio Code though, that's just a plain text editor)
 
-Positives:
+**Positives:**
 -Probably most Advanced C# IDE at the moment
 
 -Integration with GitHub
@@ -14,9 +14,7 @@ Positives:
 
 -Integrated GUI Editor
 
-
-
-Negatives:
+**Negatives:**
 
 -Not Open-Source
 
@@ -28,7 +26,7 @@ Negatives:
 
 (Download button is on the top bar)
 
-Positives:
+**Positives:**
 
 -Open-Source
 
@@ -40,9 +38,7 @@ Positives:
 
 -integrated GUI Editor
 
-
-
-Negatives:
+**Negatives:**
 
 -A little Outdated in some Aspects
 
@@ -52,7 +48,7 @@ Negatives:
 
 #### [MonoDevelop](monodevelop.com)
 
-Positives:
+**Positives:**
 
 -Open-Source
 
@@ -64,9 +60,7 @@ Positives:
 
 -GitHub Support
 
-
-
-Negatives:
+**Negatives:**
 
 -No Built-in GUI Editor
 
