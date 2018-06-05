@@ -1,9 +1,15 @@
 # Table of contents
 
+* [Useful Software](SOFTWARE.md)
+
 ###Introduction
 * [Introduction](README.md)
 
 ###Basic Concepts
+####General Programming Concepts
+* [The Compiler](COMPILER.md)
+
+####C#-Specific Concepts
 * [Object Oriented Programming](OOP.md)
 * [.NET and Intermediate Language (IL)](IL.md)
 
