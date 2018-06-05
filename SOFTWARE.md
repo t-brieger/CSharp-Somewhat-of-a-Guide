@@ -14,6 +14,7 @@ Positives:
 
 -Integrated GUI Editor
 
+
 Negatives:
 
 -Not Open-Source
@@ -38,6 +39,7 @@ Positives:
 
 -integrated GUI Editor
 
+
 Negatives:
 
 -A little Outdated in some Aspects
@@ -59,6 +61,7 @@ Positives:
 -Add-On Support
 
 -GitHub Support
+
 
 Negatives:
 
