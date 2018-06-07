@@ -1,0 +1,5 @@
+#What is .NET?
+.NET is a language family that includes C# (obviously, since it's explained here), Visual Basic, F# and Visual C++.
+it's main difference in comparison to other languages is that it's way more / easier portable: with most other languages, you'd have to provide the end user with seperate binary files for each platform, since (for example) windows of course can't read MacOS Binaries. With .NET however, You only have to build it once and then get a "IL" (Intermediate Language) file. This file can't be read by the computer, but it's already optimized by the compiler. Now the special part: .NET has different runtimes for each platform, that then interpret the IL file like an interpreted language like python (of course, the main difference is that the IL file isn't readable for humans).
+
+For more info read [the wikipedia article for it](https://en.wikipedia.org/wiki/Common_Intermediate_Language) (remove this when there's enough info)
