@@ -11,8 +11,7 @@
 
 -Support for more Languages (for example Visual Basic, C++, etc.)
 
--Extensive Add-on Support
-
+-Extensive Add-on Support &#10;
 -Integrated GUI Editor
 
 **Negatives:**
