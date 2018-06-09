@@ -13,6 +13,6 @@
 ##Learning
 
 ###Basic learning
-[ayyy](SampleFile.md)
+[ayyy](SAMBLEFILE.md)
 ###Advanced Learning
 ###Expert Learning
