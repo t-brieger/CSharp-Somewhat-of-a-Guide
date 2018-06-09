@@ -10,8 +10,6 @@
 * [Object Oriented Programming](OOP.md)
 * [.NET and Intermediate Language (IL)](IL.md)
 
-##Learning
-
 ###Basic learning
 [ayyy](SAMPLEFILE.md)
 ###Advanced Learning
