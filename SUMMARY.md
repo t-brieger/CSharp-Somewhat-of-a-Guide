@@ -13,6 +13,6 @@
 ##Learning
 
 ###Basic learning
-[ayyy](OOP)
+[ayyy](OOP.md)
 ###Advanced Learning
 ###Expert Learning
