@@ -11,6 +11,6 @@
 * [.NET and Intermediate Language (IL)](IL.md)
 
 ###Basic learning
-[ayyy](SAMPLEFILE.md)
+* I may just have forgot a bullet [hi](SAMPLEFILE.md)
 ###Advanced Learning
 ###Expert Learning
