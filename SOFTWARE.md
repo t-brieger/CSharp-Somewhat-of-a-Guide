@@ -5,7 +5,7 @@
 
 **Positives:**
 
--Probably most Advanced C# IDE at the moment&#10;&#13;-Integration with GitHub&#10;&#13;-Support for more Languages (for example Visual Basic, C++, etc.)&#10;&#13;-Extensive Add-on Support &#10;&#13;-Integrated GUI Editor
+-Probably most Advanced C# IDE at the moment&#10;&#13;-Integration with GitHub&#10;&#13;-Support for more Languages (for example Visual Basic, Visual C++, etc.)&#10;&#13;-Extensive Add-on Support &#10;&#13;-Integrated GUI Editor
 
 **Negatives:**
 
@@ -35,3 +35,13 @@
 
 ##Websites
 I know this is technically not software, but I didn't want to make another category just for Websites
+
+#### [MSDN](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)
+
+**Positives**
+
+-Made by the company that created C# so it's well written, detailed and up to date
+
+**Negatives**
+
+-Sometimes it can be *too* detailed and just make you confused
