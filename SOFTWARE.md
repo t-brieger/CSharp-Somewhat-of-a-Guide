@@ -44,4 +44,4 @@ I know this is technically not software, but I didn't want to make another categ
 
 **Negatives**
 
--Sometimes it can be *too* detailed and just make you confused
+-Sometimes it can be *too* detailed and just confuse you
