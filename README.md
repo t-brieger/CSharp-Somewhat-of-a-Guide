@@ -1,5 +1,5 @@
 # Introduction
-this is a somewhat simple tutorial to help you learn the basics of C#.&#10;&#13;while it is targetted mostly at beginners, I'm sure it also contains some information that may be new to more advanced users.
+this is a somewhat simple tutorial to help you learn the basics of C#.&#10;&#13;
+it *is* targetted mostly at beginners, but there are some things that even advanced coders may not have known.
 
-so, I hope you enjoy it :)
-
+so with that, I hope you learn something new.

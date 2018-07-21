@@ -3,6 +3,9 @@
 ##Introduction
 * [Introduction](README.md)
 
+##Getting Started
+* [Installing](INSTALLATION.md)
+
 ###General Programming Concepts
 * [The Compiler](COMPILER.md)
 
