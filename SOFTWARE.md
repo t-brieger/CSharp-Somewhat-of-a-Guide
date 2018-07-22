@@ -17,7 +17,7 @@
 
 **Positives:**
 
--Open-Source&#10;&#13;-Support for More Languages (for example Visual Basic, XML, etc.)&#10;&#13;-Completely Free and no registration required&#10;&#13;-Existing Add-on Support (although there aren't many add-ons available)&#10;&#13;-integrated GUI Editor
+-Open-Source&#10;&#13;-Support for More Languages (for example Visual Basic, XML, etc.)&#10;&#13;-Completely Free and no registration required&#10;&#13;-Existing Add-on Support (although there aren't many add-ons available)&#10;&#13;-integrated GUI Editor&#10;&#13;-Portable Version Exists&#10;&#13;-Very leightweight
 
 **Negatives:**
 
