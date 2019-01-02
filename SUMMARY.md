@@ -12,3 +12,6 @@
 
 ##Good Practice
 * [Naming conventions](good-practice/NAMING.md)
+
+##Learning
+* [Basics](learning/BASICS.md)
