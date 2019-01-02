@@ -14,4 +14,4 @@
 * [Naming conventions](good-practice/NAMING.md)
 
 ##Learning
-* [Basics](learning/BASICS.md)
+* [Blocks](learning/BLOCKS.md)
