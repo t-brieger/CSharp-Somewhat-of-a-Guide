@@ -3,8 +3,8 @@
 * [Introduction](README.md)
 
 ##Getting Started
-* [Installing](INSTALLING.md)
-* [Useful Links](LINKS.md)
+* [Installing](getting-started/INSTALLING.md)
+* [Useful Links](getting-started/LINKS.md)
 
 ###General Programming Concepts
 * [The Compiler](COMPILER.md)
