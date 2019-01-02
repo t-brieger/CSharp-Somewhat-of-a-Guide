@@ -1,4 +1,12 @@
-#Useful Software
+#Useful Links
+As good as I want this book to be, it will never be perfect. so, here are some links to other resources that may help you.
+
+## [Google Search](https://www.google.com)
+If you're gonna be a programmer, you need to learn how to use Google search correctly, to find the information you need. If you have an error, Google it. If you need to know how to do something, Google it.
+
+## [Stack Overflow](https://stackoverflow.com/)
+Stack Overflow is a site where you can ask questions and view and/or answer other peoples questions. It's great if you want to ask a question, though they do have some strict rules on asking questions, which should be taken into consideration before asking there, and chances are, your question has already been answered on the site, so you can usually find what you need easily. And if you do, make sure to up-vote the person's answer that you found helpful.
+
 ##IDEs
 ####[Visual Studio](https://www.visualstudio.com)
 (I recommend 2015 or 2017, but most versions are fine. Don't confuse it with Visual Studio Code though, that's just a plain text editor)

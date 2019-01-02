@@ -1,10 +1,10 @@
-* [Useful Software](SOFTWARE.md)
+#Table of contents
 
-##Introduction
 * [Introduction](README.md)
 
 ##Getting Started
-* [Installing](INSTALLATION.md)
+* [Installing](INSTALLING.md)
+* [Useful Links](LINKS.md)
 
 ###General Programming Concepts
 * [The Compiler](COMPILER.md)
@@ -14,6 +14,5 @@
 * [.NET and Intermediate Language (IL)](IL.md)
 
 ###Basic learning
-* I may just have forgot a bullet [hi](SAMPLEFILE.md)
 ###Advanced Learning
 ###Expert Learning
