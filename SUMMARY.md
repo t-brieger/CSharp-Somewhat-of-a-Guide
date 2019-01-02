@@ -9,3 +9,6 @@
 ##Explanations
 * [What is a compiler?](concepts/COMPILER.md)
 * [What is Intermediate Language (IL)?](concepts/IL.md)
+
+##Good Practice
+* [Naming conventions](good-practice/NAMING.md)
