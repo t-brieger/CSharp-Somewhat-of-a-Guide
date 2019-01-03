@@ -14,10 +14,19 @@ the IL code is already optimized by the compiler and is already "broken down" in
 When you run IL code, your computer translates the instructions in the IL code into those instructions that it can execute natively using a special program: the .NET runtime.
 
 #### why is this better than other approaches?
-there are 2 (major) other approaches to compiling a program: compiling the program to native code directly or interpreting it without a real compilation step.
+there are 2 (major) other approaches to compiling a program: compiling the program to native code directly (as seen in, for example, C++ or Rust) or interpreting it without a real compilation step (like python, ruby or javascript).
 
 The advantage over compiling to native code directly is that for every target architecture (for different operating systems and processors), you would have to provide a seperate binary, while with .NET, you can simply distribute a single IL file and then let the .NET runtime do the architecture-specific work for you.
 
 This approach does have a disadvantage when compared to compiling to native code as well though: Performance. The reason for that is that instead of simply passing the File to the processor as-is, IL files have to be "translated" first, which, of course, takes some amount of processing power.
 
 (add pro & contra for interpreted langs)
+
+<quiz>
+    <question>
+        <p>Which of those languages usually runs faster?</p>
+        <answer correct>C++</answer>
+        <answer>C#</answer>
+        <answer>Python</answer>
+    </question>
+</quiz>
