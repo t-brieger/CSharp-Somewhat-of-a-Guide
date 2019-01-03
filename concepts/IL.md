@@ -1,7 +1,8 @@
-#What is .NET?
-.NET is a language family that includes C# (obviously, since it's explained here), Visual Basic, F# and Visual C++.
 
-Its main difference to other Compiled languages is that it's a lot more portable: with most other languages, you'd have to provide the end user with seperate binary files for each platform.
+#What is .NET?
+.NET (pronounced dot net) is a family of programming languages which includes C# (which we'll be explaining here), Visual Basic, F# and Visual C++.
+
+Its main difference to other frameworks or families is that it's a lot more portable: with most other languages, you have to provide the end user with seperate binary (executable) files for each platform.
 
 With .NET, however, You only have to compile your source code once and then get a file with "IL" (Intermediate Language) code inside it.
 
@@ -10,7 +11,7 @@ This code is a lot like native bytecode, in that it contains non-human-readable 
 #### so, what is this good for if it can't be used by the computer?
 the IL code is already optimized by the compiler and is already "broken down" into instructions (from the high-level syntactic constructs of the language).
 
-When you run IL code, your computer translates the instructions in the IL code to those instructions that it can execute natively using a special program: the .NET runtime.
+When you run IL code, your computer translates the instructions in the IL code into those instructions that it can execute natively using a special program: the .NET runtime.
 
 #### why is this better than other approaches?
 there are 2 (major) other approaches to compiling a program: compiling the program to native code directly or interpreting it without a real compilation step.
