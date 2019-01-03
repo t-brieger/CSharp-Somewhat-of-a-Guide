@@ -3,3 +3,11 @@ This is a (hopefully) somewhat simple tutorial to help you learn the basics of C
 While it is targetted more towards beginners, I'm trying to also say something about more advanced concepts every now and then like how certain features work "under the hood".
 
 In the finished version of this book, there will be a quiz (using the plugin `gitbook-quiz`) at the end of almost every page
+
+<quiz>
+    <question multiple>
+        <p>Does this display as a quiz?</p>
+        <answer correct>Yes</answer>
+        <answer>no</answer>
+    </question>
+</quiz>
