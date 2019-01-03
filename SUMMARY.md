@@ -2,7 +2,6 @@
 * [Introduction](README.md)
 
 ##Getting Started
-* [Installing](getting-started/INSTALLING.md)
 * [Useful Links](getting-started/LINKS.md)
 * [Running your code](getting-started/RUNNING.md)
 
