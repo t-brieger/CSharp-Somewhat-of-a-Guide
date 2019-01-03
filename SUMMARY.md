@@ -13,4 +13,11 @@
 * [Naming conventions](good-practice/NAMING.md)
 
 ##Learning
+* [Variables](learning/VARIABLES.md)
+* [Types of data](learning/DATATYPES.md)
+* [Operators](learning/OPERATORS.md)
+* [Statements](learning/STATEMENTS.md)
+* [Functions](learning/FUNCTIONS.md)
 * [Blocks](learning/BLOCKS.md)
+* [Classes](learning/CLASSES.md)
+* [Namespaces](learning/NAMESPACES.md)
