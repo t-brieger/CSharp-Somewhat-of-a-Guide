@@ -74,7 +74,7 @@ If no class is given to inherit, the class will inherit from `Object`. This also
 
 ### What is the Constructor?
 
-The class initialiser is a method that is run whenever an instance of the class is created using the `new` keyword. It is where many of the initialization happens.
+The Constructor is a method that is run whenever an instance of the class is created using the `new` keyword. It is where many of the initialization happens.
 
 ```cs
 class MyClass 
