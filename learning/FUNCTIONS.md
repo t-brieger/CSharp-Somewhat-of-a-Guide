@@ -68,13 +68,13 @@ GreetLong(LastName: "Guy", FirstName: "Just Some");
 These aren't an either/or situation, though. Both can be used together.
 
 ```cs
-GreetLong("Some", second_name="Guy");
+GreetLong("Some", second_name: "Guy");
 ```
 
 However, you can't pass a named argument and then an unnamed one, as the order of the arguments does matter.
 
 ```cs
-GreetLong(second_name="Name", "Random");
+GreetLong(second_name: "Name", "Random");
 ```
 
 Using the name of the argument will improve readability of the code, and if you think someone else will need to understand what the arguments mean, it might be a good idea to use them.

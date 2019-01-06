@@ -21,12 +21,3 @@ The advantage over compiling to native code directly is that for every target ar
 This approach does have a disadvantage when compared to compiling to native code as well though: Performance. The reason for that is that instead of simply passing the File to the processor as-is, IL files have to be "translated" first, which, of course, takes some amount of processing power.
 
 (add pro & contra for interpreted langs)
-
-<quiz>
-    <question>
-        <p>Which of those languages usually runs faster?</p>
-        <answer correct>C++</answer>
-        <answer>C#</answer>
-        <answer>Python</answer>
-    </question>
-</quiz>
