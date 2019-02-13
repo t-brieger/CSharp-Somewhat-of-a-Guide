@@ -1,5 +1,5 @@
 #How to run your code
-##By Compiling it with in an IDE
+##By Compiling it within an IDE
 In most IDEs, the key `f5` compiles and runs your code. If not, there's usually a button (often along the top of the window) called something like `run`.
 
 If neither of these is true for your IDE of choice or you can't find it, you can probably find how to run your code by searching for `<IDE> run code` on the web.
