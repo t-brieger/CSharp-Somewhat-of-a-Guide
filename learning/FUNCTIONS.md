@@ -2,7 +2,7 @@
 
 ## What is a Function?
 
-A function is a command that can be used to performa one or multiple actions. They can contain however many lines of code you would like, and can be used however many times by just calling them.
+A function is a command that can be used to perform one or multiple actions. They can contain however many lines of code you would like, and can be used however many times by just calling them.
 
 ### Why Should I Use Functions?
 
@@ -17,14 +17,14 @@ If you want to run multiple lines of code multiple times, then putting that code
 An argument is something that can be passed into a function to then be used inside of the function.
 
 ```cs
-void Greet(String name)
+void Greet(string name)
 {
     Console.WriteLine("Hello, " + name + "!");
 }
 ```
 
 ```cs
-void GreetLong(String firstName, String lastName)
+void GreetLong(string firstName, string lastName)
 {
     Console.WriteLine("Hello, " + firstName + " " + lastName + "!");
 }
@@ -35,13 +35,13 @@ void GreetLong(String firstName, String lastName)
 By default, the values of arguments are all null, and so every one must have a value passed to it. However, you might want to give default values for arguments. This can be done by adding an equals sign and then the value, just like you were creating a variable.
 
 ```cs
-void Greet(String name="John")
+void Greet(string name="John")
 {
     Console.WriteLine("hello, " + name + "!");
 }
 ```
 
-if this function was called without specifying parameters, `hello, John!` would be outputted.
+if this function was called without specifying parameters, `hello, John!` would be output.
 
 ### Passing Arguments
 
@@ -84,9 +84,9 @@ Using the name of the argument will improve readability of the code, and if you 
 When making a function, you can specify that in the arguments, it can accept either only a single argument with `params` or a number of arguments and then one with `params`. What `params` means, is a limitless amount of arguments, so creating a function that accepts it, means that all arguments provided to the call after specific ones, will be placed in an Array. You can then access the arguments under the name you gave the parameter in the function to use them.
 
 ```cs
-void Function(params String[] args)
+void Function(params string[] args)
 {
-    foreach (String item in args)
+    foreach (string item in args)
     {
         Console.WriteLine(item);
     }
