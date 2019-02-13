@@ -19,7 +19,7 @@ To use a variable, the variable must first be defined. After that, it may be ref
 To define a variable, you simply write A type, followed by the desired name followed by an equals sign and then the value the variable will have. This may be the result of a function call or a literal.
 
 ```cs
-String MyVariable = "A simple string";
+string myVariable = "A simple string";
 ```
 
 Now, the variable, "MyVariable" may be used in the code.
@@ -29,8 +29,8 @@ Now, the variable, "MyVariable" may be used in the code.
 Changing a variable is a lot like defining it, the only difference is that the type is not specified again:
 
 ```cs
-String MyVariable = "A simple string";
-MyVariable = "A different string";
+string myVariable = "A simple string";
+myVariable = "A different string";
 ```
 
 The first line will create the variable and specify that it's of type `String` and give it a value of `A simple string`, and the second line will change the value of the variable to `A different string`.
@@ -40,8 +40,8 @@ The first line will create the variable and specify that it's of type `String` a
 To reference a variable, you simply write the name of it where you would like it to be used.
 
 ```cs
-MyVariable = "A simple string";
-Console.WriteLine(MyVariable);
+string myVariable = "A simple string";
+Console.WriteLine(myVariable);
 ```
 
 This will print `A simple string` to the standard output (usually the terminal).
