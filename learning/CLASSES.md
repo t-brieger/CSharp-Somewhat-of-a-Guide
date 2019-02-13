@@ -146,7 +146,7 @@ A static variable or method is one that belongs to the class. In every instance 
 ```cs
 class MyClass
 {
-    public static String NameOfThisClass = "MyClass";
+    public static string NameOfThisClass = "MyClass";
 }
 ```
 
@@ -169,25 +169,25 @@ An instance variable Or method is a variable or method of the class that can be 
 ```cs
 class MyClass
 {
-    String MyName = "Bob";
+    string MyName = "Bob";
 }
 ```
 
 ## Instances
 
-### What is an Instance? {#what-is-an-instance}
+### What is an Instance?
 
 An instance of a class contains everything that the class has. The instance can use the non-static methods and variables, and can even change what's stored in those variables.
 
-### How to Create an Instance {#how-to-create-an-instance}
+### How to Create an Instance
 
 To create an instance, you simply type the `new` keyword, followed by the classes name followed by the arguments that the parameter takes in parentheses.
 
 ```cs
 class MyClass
 {
-    String bla2;
-    public MyClass(String bla)
+    string bla2;
+    public MyClass(string bla)
     {
         bla2 = bla;
     }
@@ -250,8 +250,8 @@ class QuestManager
 ```cs
 class Quest
 {
-    public String name, description;
-    public Quest(String name, String description)
+    public string name, description;
+    public Quest(string name, string description)
     {
         this.name = name;
         this.description = description;
