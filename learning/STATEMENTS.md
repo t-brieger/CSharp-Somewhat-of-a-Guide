@@ -21,14 +21,14 @@ if (0 == 0)
 }
 ```
 
-Will always be true and because of this, it will always print, "0 is equal to 0."
+0 Will always be equal to 0, and because of this, it will always print, "0 is equal to 0."
 
 #### Else
 
 If you want to run some code when the argument is false, you can use `else`.
 
 ```cs
-if 0 == 1
+if (0 == 1)
 {
     Console.WriteLine("0 is equal to 1.");
 }else
