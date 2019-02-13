@@ -6,14 +6,14 @@ A data type is, as the name suggests, a type of data. Giving each type of data i
 
 In C#, there are a few so-called "primitive" data types - Data types which you can create using a literal. (a literal is a way of representing data by just typing it in your source code instead of calling a function to get it.)
 
-## Boolean
-A boolean is the simplest form of data, only being able to represent two states; on and off. (in binary, this is represented as 1 and 0.)
+## Bool
+A bool, or boolean value is the simplest form of data, only being able to represent two states; on and off. (in binary, this is represented as 1 and 0.)
 
-To create a boolean, simply use the literal `true` for a value of 1 or on and `false` for a value of 0 or off.
+To create a bool, simply use the literal `true` for a value of 1 or on and `false` for a value of 0 or off.
 
 ```cs
-boolean positive = true;
-boolean negative = false;
+bool positive = true;
+bool negative = false;
 ```
 
 ## Integer
@@ -67,9 +67,9 @@ To create a string, encapsulate text within quotation marks (`"`).
 You can use all the same "escape sequences" (those starting with a backslash) in a string that you can use in a char and one more: `\"` to indicate that you don't want to end the string but rather have a quotation mark appear inside of it.
 
 ```cs
-String helloWorld = "Hello, World!";
-String quotation  = "\"Hello\", I said";
-String lineSeperated = "Hello\nWorld";
+string helloWorld = "Hello, World!";
+string quotation  = "\"Hello\", I said";
+string lineSeperated = "Hello\nWorld";
 ```
 
 ## Array
